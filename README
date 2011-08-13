@@ -1,0 +1,3 @@
+Simple interactive calculator. It's developed for practical tasks in eduarea.com courses.
+To start just type "mvn" in console, to show variable value just type it's name, to leave type "quit".
+All numbers are stored in java.lang.Float variables. 
